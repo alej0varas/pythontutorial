@@ -26,5 +26,6 @@ Virtual environment
 Tools & Resources
 =================
 
-1. http://www.python.org/dev/peps/pep-0008/
-2. flake8 - https://pypi.python.org/pypi/flake8
+1.  <a href="http://www.python.org/dev/peps/pep-0008/">Recommended Practices when coding with Python</a>
+
+2. <a href="https://pypi.python.org/pypi/flake8">Modular Python Source Code Checker</a>
