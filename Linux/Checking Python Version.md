@@ -13,5 +13,26 @@ if you got something like
 
 Congratulations, you have Python in your System, YAAAAAY!!!.
 
+# Wait!, There is some not found mumbo jumbo D:
+
+In that case you must install Python or If you have a lesser Python Version (< 2.7) you should install a newer one, but **do not remove the installed version**.
+
+So,  What Python version is better,  2.7.x or 3.x?, Well there are some little differences between them. But 2.7.x have more compatible libraries.
+
+
+### Installing From The PPA
+We will use an Ubuntu based distro for the following commands. 
+
+This is the most easy way, if you have a non Ubuntu based distro you should use the source Luke! (or the package manager from your distro).
+
+	$ sudo add-apt-repository ppa:fkrull/deadsnakes
+
+	$ sudo apt-get update
+
+	$ sudo apt-get install python2.7 python2.7-dev
+
+
+
+
 
  
