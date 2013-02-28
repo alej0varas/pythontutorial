@@ -14,7 +14,7 @@ This is not about the language itself, rather it's about how to start with a hea
 Do I have Python installed?
 ===========================
 
-1. Check you Python version
+1. <a href="https://github.com/clsource/pythontutorial/blob/master/Linux/Checking%20Python%20Version.md">Check you Python</a> version
 2. Install if not present
 
 Virtual environment
